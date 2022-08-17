@@ -1,1 +1,1 @@
-# wireguard-namespace
+# Wireguard Namespace
